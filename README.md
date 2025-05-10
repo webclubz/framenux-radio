@@ -21,6 +21,8 @@ Framenux Radio is a simple and elegant internet radio player that allows you to 
 
 ## Installation
 
+### Tested on Ubuntu 24.04
+
 ### Option 1: Install from DEB package
 
 ```bash
