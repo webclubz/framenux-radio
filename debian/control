@@ -1,0 +1,16 @@
+Source: framenux-radio
+Section: sound
+Priority: optional
+Maintainer: Framex <maintainer@example.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.5.0
+Homepage: 
+
+Package: framenux-radio
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Description: Internet Radio Player
+ Framenux Radio is a simple and elegant internet radio player
+ that allows you to listen to thousands of radio stations
+ from around the world. It features a clean user interface,
+ station search capabilities, and favorites management.

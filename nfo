@@ -1,0 +1,15 @@
+Creating a Debian Package with Checkinstall
+
+First, you'll need to install the checkinstall tool (if not already installed). 
+
+You can do this by running the following command in your terminal:
+
+sudo apt-get install checkinstall
+
+Then, run the following command from your project directory:
+
+chmod +x install.sh
+
+sudo checkinstall --pkgname=framenux-radio --pkgversion=1.0.0 --maintainer=maintainer@example.com --deldoc=yes --delspec=yes --backup=no --requires="python3, python3-gi, gir1.2-gtk-3.0" --install=yes ./install.sh
+
+

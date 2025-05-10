@@ -1,0 +1,2 @@
+debian/framenux-radio.desktop usr/share/applications
+assets/* usr/share/framenux-radio/assets
