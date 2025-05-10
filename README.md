@@ -2,7 +2,7 @@
 
 Framenux Radio is a simple and elegant internet radio player that allows you to listen to thousands of radio stations from around the world. It features a clean GTK3 user interface, station search capabilities, and favorites management.
 
-![Framenux Radio](assets/framenux.png)
+![Framenux Radio](assets/framenux-window.png)
 
 ## Features
 
